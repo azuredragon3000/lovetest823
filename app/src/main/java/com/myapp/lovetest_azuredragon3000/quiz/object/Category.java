@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.quiz.object;
+package com.myapp.lovetest_azuredragon3000.quiz.object;
 
 public class Category {
 

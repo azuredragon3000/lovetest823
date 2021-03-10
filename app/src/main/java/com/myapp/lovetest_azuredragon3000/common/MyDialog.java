@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.common;
+package com.myapp.lovetest_azuredragon3000.common;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

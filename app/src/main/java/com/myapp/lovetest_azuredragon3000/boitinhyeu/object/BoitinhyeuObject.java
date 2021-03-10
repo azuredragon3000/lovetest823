@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.boitinhyeu.object;
+package com.myapp.lovetest_azuredragon3000.boitinhyeu.object;
 
 import java.util.Random;
 

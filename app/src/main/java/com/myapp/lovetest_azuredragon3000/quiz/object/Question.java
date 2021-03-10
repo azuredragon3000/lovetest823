@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.quiz.object;
+package com.myapp.lovetest_azuredragon3000.quiz.object;
 
 
 import android.os.Parcel;
@@ -47,13 +47,13 @@ public class Question implements Parcelable{
 
     public static final Creator<Question> CREATOR = new Creator<Question>() {
         @Override
-        public com.myapp.boitinhyeuazure.quiz.object.Question createFromParcel(Parcel in) {
-            return new com.myapp.boitinhyeuazure.quiz.object.Question(in);
+        public com.myapp.lovetest_azuredragon3000.quiz.object.Question createFromParcel(Parcel in) {
+            return new com.myapp.lovetest_azuredragon3000.quiz.object.Question(in);
         }
 
         @Override
-        public com.myapp.boitinhyeuazure.quiz.object.Question[] newArray(int size) {
-            return new com.myapp.boitinhyeuazure.quiz.object.Question[size];
+        public com.myapp.lovetest_azuredragon3000.quiz.object.Question[] newArray(int size) {
+            return new com.myapp.lovetest_azuredragon3000.quiz.object.Question[size];
         }
     };
 

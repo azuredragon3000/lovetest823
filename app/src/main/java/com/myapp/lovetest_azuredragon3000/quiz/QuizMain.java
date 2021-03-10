@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.quiz;
+package com.myapp.lovetest_azuredragon3000.quiz;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.myapp.boitinhyeuazure.R;
+import com.myapp.lovetest_azuredragon3000.R;
 
 public class QuizMain extends AppCompatActivity {
 

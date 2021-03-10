@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.quiz;
+package com.myapp.lovetest_azuredragon3000.quiz;
 
 import android.content.Context;
 import android.view.View;
@@ -6,9 +6,9 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-import com.myapp.boitinhyeuazure.quiz.object.AbsQuiz;
-import com.myapp.boitinhyeuazure.quiz.object.InforQuestion;
-import com.myapp.boitinhyeuazure.quiz.object.Question;
+import com.myapp.lovetest_azuredragon3000.quiz.object.AbsQuiz;
+import com.myapp.lovetest_azuredragon3000.quiz.object.InforQuestion;
+import com.myapp.lovetest_azuredragon3000.quiz.object.Question;
 
 import java.util.ArrayList;
 

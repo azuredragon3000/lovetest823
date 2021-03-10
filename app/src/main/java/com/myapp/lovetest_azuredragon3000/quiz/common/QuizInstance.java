@@ -1,11 +1,11 @@
-package com.myapp.boitinhyeuazure.quiz.common;
+package com.myapp.lovetest_azuredragon3000.quiz.common;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import androidx.annotation.Nullable;
-import com.myapp.boitinhyeuazure.quiz.object.Category;
-import com.myapp.boitinhyeuazure.quiz.object.QuizDB;
+import com.myapp.lovetest_azuredragon3000.quiz.object.Category;
+import com.myapp.lovetest_azuredragon3000.quiz.object.QuizDB;
 
 import java.util.ArrayList;
 

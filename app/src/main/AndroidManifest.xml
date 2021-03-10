@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.myapp.boitinhyeuazure">
+    package="com.myapp.lovetest_azuredragon3000">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -11,19 +11,19 @@
         android:label="BÓI TÌNH YÊU"
         android:supportsRtl="true"
         android:theme="@style/Theme.boitinhyeuazure">
-        <activity android:name=".quiz.QuizChild"></activity>
-        <activity android:name=".quiz.QuizMain" />
+        <activity android:name="com.myapp.lovetest_azuredragon3000.quiz.QuizChild"></activity>
+        <activity android:name="com.myapp.lovetest_azuredragon3000.quiz.QuizMain" />
         <activity
-            android:name=".demsotuoi.HowOldAreYou"
+            android:name="com.myapp.lovetest_azuredragon3000.demsotuoi.HowOldAreYou"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".minigame.Minigame"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".boitinhyeu.BoiTinhYeuMain"
+            android:name="com.myapp.lovetest_azuredragon3000.boitinhyeu.BoiTinhYeuMain"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".boitinhyeu.BoiTinhYeuChild"
+            android:name="com.myapp.lovetest_azuredragon3000.boitinhyeu.BoiTinhYeuChild"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <meta-data
@@ -31,7 +31,7 @@
             android:value="ca-app-pub-8404443559572571~6788038548" />
 
         <activity
-            android:name=".main.MainActivity"
+            android:name="com.myapp.lovetest_azuredragon3000.main.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

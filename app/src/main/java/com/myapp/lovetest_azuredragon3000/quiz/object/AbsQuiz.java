@@ -1,11 +1,11 @@
-package com.myapp.boitinhyeuazure.quiz.object;
+package com.myapp.lovetest_azuredragon3000.quiz.object;
 
 import android.content.Context;
 import android.os.CountDownTimer;
 import android.widget.RadioButton;
 import android.widget.TextView;
 
-import com.myapp.boitinhyeuazure.quiz.common.QuizInstance;
+import com.myapp.lovetest_azuredragon3000.quiz.common.QuizInstance;
 
 import java.util.ArrayList;
 
@@ -73,7 +73,7 @@ public abstract class AbsQuiz {
 
     public abstract void showNextquestion();
     public abstract void checkAnswer();
-    public abstract void showToLayout(com.myapp.boitinhyeuazure.quiz.object.InforQuestion ques);
+    public abstract void showToLayout(com.myapp.lovetest_azuredragon3000.quiz.object.InforQuestion ques);
     public abstract void prepare();
 
 }

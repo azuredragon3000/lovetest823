@@ -8,7 +8,7 @@
     android:background="@drawable/background2"
     tools:context=".boitinhyeu.BoiTinhYeuChild">
 
-    <com.myapp.boitinhyeuazure.boitinhyeu.object.PulseAnimationView
+    <com.myapp.lovetest_azuredragon3000.boitinhyeu.object.PulseAnimationView
         android:id="@+id/animationView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

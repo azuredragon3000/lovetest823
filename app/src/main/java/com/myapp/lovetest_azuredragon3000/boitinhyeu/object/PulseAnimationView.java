@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.boitinhyeu.object;
+package com.myapp.lovetest_azuredragon3000.boitinhyeu.object;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
@@ -20,7 +20,7 @@ import android.view.animation.LinearInterpolator;
 
 import androidx.annotation.RequiresApi;
 
-import com.myapp.boitinhyeuazure.R;
+import com.myapp.lovetest_azuredragon3000.R;
 
 
 public class PulseAnimationView extends View {

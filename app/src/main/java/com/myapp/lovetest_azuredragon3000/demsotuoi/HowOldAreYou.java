@@ -1,4 +1,4 @@
-package com.myapp.boitinhyeuazure.demsotuoi;
+package com.myapp.lovetest_azuredragon3000.demsotuoi;
 
 import android.app.DialogFragment;
 import android.os.Bundle;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.textfield.TextInputLayout;
-import com.myapp.boitinhyeuazure.R;
-import com.myapp.boitinhyeuazure.common.DatePickerFragment;
+import com.myapp.lovetest_azuredragon3000.R;
+import com.myapp.lovetest_azuredragon3000.common.DatePickerFragment;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

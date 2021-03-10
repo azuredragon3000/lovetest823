@@ -9,11 +9,11 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.myapp.boitinhyeuazure"
+        applicationId "com.myapp.lovetest_azuredragon3000"
         minSdkVersion 16
         targetSdkVersion 30
-        versionCode 31
-        versionName "31.0"
+        versionCode 100
+        versionName "100.0"
 
     }
 

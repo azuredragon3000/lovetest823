@@ -1,14 +1,14 @@
-package com.myapp.boitinhyeuazure.main;
+package com.myapp.lovetest_azuredragon3000.main;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
-import com.myapp.boitinhyeuazure.R;
-import com.myapp.boitinhyeuazure.boitinhyeu.BoiTinhYeuMain;
-import com.myapp.boitinhyeuazure.demsotuoi.HowOldAreYou;
-import com.myapp.boitinhyeuazure.quiz.QuizMain;
+import com.myapp.lovetest_azuredragon3000.R;
+import com.myapp.lovetest_azuredragon3000.boitinhyeu.BoiTinhYeuMain;
+import com.myapp.lovetest_azuredragon3000.demsotuoi.HowOldAreYou;
+import com.myapp.lovetest_azuredragon3000.quiz.QuizMain;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     @Override

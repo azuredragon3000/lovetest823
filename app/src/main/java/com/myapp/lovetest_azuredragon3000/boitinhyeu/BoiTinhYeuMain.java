@@ -1,18 +1,16 @@
-package com.myapp.boitinhyeuazure.boitinhyeu;
+package com.myapp.lovetest_azuredragon3000.boitinhyeu;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
-import com.myapp.boitinhyeuazure.R;
-import com.myapp.boitinhyeuazure.boitinhyeu.object.BoitinhyeuObject;
-import com.myapp.boitinhyeuazure.common.MyDialog;
+import com.myapp.lovetest_azuredragon3000.R;
+import com.myapp.lovetest_azuredragon3000.boitinhyeu.object.BoitinhyeuObject;
+import com.myapp.lovetest_azuredragon3000.common.MyDialog;
 
 public class BoiTinhYeuMain extends AppCompatActivity  {
 
